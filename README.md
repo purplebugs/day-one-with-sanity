@@ -1,3 +1,7 @@
+# 2024-05-21
+
+Followed tutorial at [Day One with Sanity](https://www.sanity.io/learn/course/day-one-with-sanity-studio)
+
 # Sanity Clean Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
